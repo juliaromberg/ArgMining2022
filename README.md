@@ -28,10 +28,11 @@ Citation
     booktitle = "Proceedings of the 9th Workshop on Argument Mining",
     month = oct,
     year = "2022",
-    address = "Gyeongju, Republic of Korea",
-    publisher = "Association for Computational Linguistics",
-    url = "?",
-    pages = "?--?",
+    address = "Online and in Gyeongju, Republic of Korea",
+    publisher = "International Conference on Computational Linguistics",
+    url = "https://aclanthology.org/2022.argmining-1.11",
+    pages = "115--125",
+    abstract = "Although argumentation can be highly subjective, the common practice with supervised machine learning is to construct and learn from an aggregated ground truth formed from individual judgments by majority voting, averaging, or adjudication. This approach leads to a neglect of individual, but potentially important perspectives and in many cases cannot do justice to the subjective character of the tasks. One solution to this shortcoming are multi-perspective approaches, which have received very little attention in the field of argument mining so far. In this work we present PerspectifyMe, a method to incorporate perspectivism by enriching a task with subjectivity information from the data annotation process. We exemplify our approach with the use case of classifying argument concreteness, and provide first promising results for the recently published CIMT PartEval Argument Concreteness Corpus.",
 }
 
 
